@@ -1,0 +1,7 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/rw_stream_sink-00a323393cecfba5.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/rw-stream-sink-0.1.2/src/lib.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/librw_stream_sink-00a323393cecfba5.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/rw-stream-sink-0.1.2/src/lib.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/rw_stream_sink-00a323393cecfba5.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/rw-stream-sink-0.1.2/src/lib.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/rw-stream-sink-0.1.2/src/lib.rs:

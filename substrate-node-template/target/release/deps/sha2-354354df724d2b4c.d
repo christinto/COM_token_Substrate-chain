@@ -1,0 +1,12 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/sha2-354354df724d2b4c.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/consts.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha256_utils.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha512_utils.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha256.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha512.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libsha2-354354df724d2b4c.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/consts.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha256_utils.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha512_utils.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha256.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha512.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/sha2-354354df724d2b4c.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/consts.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha256_utils.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha512_utils.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha256.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha512.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/consts.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha256_utils.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha512_utils.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha256.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.6.0/src/sha512.rs:

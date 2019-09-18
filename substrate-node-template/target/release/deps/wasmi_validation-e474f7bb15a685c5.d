@@ -1,0 +1,11 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/wasmi_validation-e474f7bb15a685c5.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/stack.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/context.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/func.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/util.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libwasmi_validation-e474f7bb15a685c5.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/stack.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/context.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/func.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/util.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/wasmi_validation-e474f7bb15a685c5.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/stack.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/context.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/func.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/util.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/stack.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/context.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/func.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.1.0/src/util.rs:

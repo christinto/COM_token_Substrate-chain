@@ -1,0 +1,12 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/secp256k1-8064e129a5ed6537.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/macros.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/constants.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/ecdh.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/ffi.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/key.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libsecp256k1-8064e129a5ed6537.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/macros.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/constants.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/ecdh.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/ffi.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/key.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/secp256k1-8064e129a5ed6537.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/macros.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/constants.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/ecdh.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/ffi.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/key.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/macros.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/constants.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/ecdh.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/ffi.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.12.2/src/key.rs:

@@ -1,0 +1,10 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/runtime/wasm/target/wasm32-unknown-unknown/release/deps/parity_codec-9c8ccf1922c9029f.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/codec.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/joiner.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/keyedvec.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/runtime/wasm/target/wasm32-unknown-unknown/release/deps/libparity_codec-9c8ccf1922c9029f.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/codec.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/joiner.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/keyedvec.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/runtime/wasm/target/wasm32-unknown-unknown/release/deps/parity_codec-9c8ccf1922c9029f.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/codec.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/joiner.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/keyedvec.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/codec.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/joiner.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-codec-3.5.4/src/keyedvec.rs:

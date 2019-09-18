@@ -1,0 +1,10 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/runtime/wasm/target/wasm32-unknown-unknown/release/deps/substrate_client-81ad94538af405d8.rmeta: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/runtime_api.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/block_builder/mod.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/block_builder/api.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/runtime/wasm/target/wasm32-unknown-unknown/release/deps/libsubstrate_client-81ad94538af405d8.rlib: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/runtime_api.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/block_builder/mod.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/block_builder/api.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/runtime/wasm/target/wasm32-unknown-unknown/release/deps/substrate_client-81ad94538af405d8.d: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/runtime_api.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/block_builder/mod.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/block_builder/api.rs
+
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/lib.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/runtime_api.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/block_builder/mod.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/client/src/block_builder/api.rs:

@@ -1,0 +1,11 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/generic_array-b966aedc393f7a7e.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/hex.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/impls.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/arr.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/iter.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libgeneric_array-b966aedc393f7a7e.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/hex.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/impls.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/arr.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/iter.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/generic_array-b966aedc393f7a7e.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/hex.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/impls.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/arr.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/iter.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/hex.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/impls.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/arr.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/iter.rs:

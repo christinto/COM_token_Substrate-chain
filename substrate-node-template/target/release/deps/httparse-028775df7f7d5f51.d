@@ -1,0 +1,12 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/httparse-028775df7f7d5f51.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libhttparse-028775df7f7d5f51.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/httparse-028775df7f7d5f51.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs:

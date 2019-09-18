@@ -1,0 +1,10 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/jsonrpc_http_server-adcfc611c9eb5726.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/handler.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/response.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/utils.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libjsonrpc_http_server-adcfc611c9eb5726.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/handler.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/response.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/utils.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/jsonrpc_http_server-adcfc611c9eb5726.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/handler.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/response.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/utils.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/handler.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/response.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-10.1.0/src/utils.rs:

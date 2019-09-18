@@ -1,0 +1,11 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/ppv_lite86-fc949db8b0ed6632.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/soft.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/types.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/x86_64/mod.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/x86_64/sse2.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libppv_lite86-fc949db8b0ed6632.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/soft.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/types.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/x86_64/mod.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/x86_64/sse2.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/ppv_lite86-fc949db8b0ed6632.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/soft.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/types.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/x86_64/mod.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/x86_64/sse2.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/soft.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/types.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/x86_64/mod.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.5/src/x86_64/sse2.rs:

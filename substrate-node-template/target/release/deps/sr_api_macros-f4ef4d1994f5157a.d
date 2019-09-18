@@ -1,0 +1,9 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libsr_api_macros-f4ef4d1994f5157a.dylib: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/impl_runtime_apis.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/decl_runtime_apis.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/utils.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/compile_fail_tests.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/sr_api_macros-f4ef4d1994f5157a.d: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/impl_runtime_apis.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/decl_runtime_apis.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/utils.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/compile_fail_tests.rs
+
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/lib.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/impl_runtime_apis.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/decl_runtime_apis.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/utils.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/sr-api-macros/src/compile_fail_tests.rs:

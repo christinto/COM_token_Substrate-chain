@@ -1,0 +1,10 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/tokio_dns-21b401a05f294ab2.rmeta: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/endpoint.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/net.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/resolver.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libtokio_dns-21b401a05f294ab2.rlib: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/endpoint.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/net.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/resolver.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/tokio_dns-21b401a05f294ab2.d: /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/lib.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/endpoint.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/net.rs /Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/resolver.rs
+
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/lib.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/endpoint.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/net.rs:
+/Users/peza/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/resolver.rs:

@@ -1,0 +1,8 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libsrml_support_procedural-44b90b8924e4f346.dylib: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/mod.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/impls.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/transformation.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/srml_support_procedural-44b90b8924e4f346.d: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/mod.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/impls.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/transformation.rs
+
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/lib.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/mod.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/impls.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/support/procedural/src/storage/transformation.rs:

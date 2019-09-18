@@ -1,0 +1,11 @@
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/substrate_trie-3120a7fc6362b543.rmeta: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/error.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/node_header.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/node_codec.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/trie_stream.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/libsubstrate_trie-3120a7fc6362b543.rlib: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/error.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/node_header.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/node_codec.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/trie_stream.rs
+
+/Users/peza/Documents/crypto/COM_token_Substrate-chain/substrate-node-template/target/release/deps/substrate_trie-3120a7fc6362b543.d: /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/lib.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/error.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/node_header.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/node_codec.rs /Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/trie_stream.rs
+
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/lib.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/error.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/node_header.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/node_codec.rs:
+/Users/peza/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/trie/src/trie_stream.rs:
