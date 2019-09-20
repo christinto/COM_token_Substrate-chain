@@ -28,7 +28,11 @@ $ yarn run dev
 
 /////////////////////////////////////////////
 
+Troubleshooting:
+https://stackoverflow.com/questions/57933433/how-to-correctly-upgrade-a-runtime-on-substrate-node
+
 Links:
+
 
 https://substrate.dev/docs/en/tutorials/creating-your-first-substrate-chain
 
