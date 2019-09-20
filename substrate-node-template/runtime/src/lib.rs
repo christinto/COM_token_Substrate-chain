@@ -55,8 +55,11 @@ pub type BlockNumber = u64;
 /// Index of an account's extrinsic in the chain.
 pub type Nonce = u64;
 
+mod demo;     // Added this line
+
+
 /// Used for the module template in `./template.rs`
-mod template;
+//mod template;
 
 /// Opaque types. These are used by the CLI to instantiate machinery that don't need to know
 /// the specifics of the runtime. They can then be made to be agnostic over specific formats
@@ -90,6 +93,17 @@ pub mod opaque {
 	pub type SessionKey = AuthorityId;
 }
 
+/// This runtime version.\n
+pub const VERSION: RuntimeVersion = RuntimeVersion {
+  spec_name: create_runtime_str!("demo"),      // Update this name
+  impl_name: create_runtime_str!("demo-node"), // Update this name
+  authoring_version: 3,
+  spec_version: 3,
+  impl_version: 0,
+  apis: RUNTIME_API_VERSIONS,
+};
+
+/* replaced
 /// This runtime version.
 pub const VERSION: RuntimeVersion = RuntimeVersion {
 	spec_name: create_runtime_str!("substrate-node-template"),
@@ -99,6 +113,7 @@ pub const VERSION: RuntimeVersion = RuntimeVersion {
 	impl_version: 4,
 	apis: RUNTIME_API_VERSIONS,
 };
+*/
 
 /// The version infromation used to identify this runtime when compiled natively.
 #[cfg(feature = "std")]
@@ -187,10 +202,14 @@ impl sudo::Trait for Runtime {
 	type Proposal = Call;
 }
 
+impl demo::Trait for Runtime {}      // Added this line
+
+/* Commented out the below, now that the above has been added.
 /// Used for the module template in `./template.rs`
 impl template::Trait for Runtime {
 	type Event = Event;
 }
+*/
 
 construct_runtime!(
 	pub enum Runtime with Log(InternalLog: DigestItem<Hash, AuthorityId, AuthoritySignature>) where
@@ -206,7 +225,9 @@ construct_runtime!(
 		Balances: balances,
 		Sudo: sudo,
 		// Used for the module template in `./template.rs`
-		TemplateModule: template::{Module, Call, Storage, Event<T>},
+		Demo: demo::{Module, Call, Storage},    // Add this line
+        //Meant to Comment out the below now that we added demo line above?
+		//TemplateModule: template::{Module, Call, Storage, Event<T>},
 	}
 );
 
